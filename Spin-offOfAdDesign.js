@@ -1,0 +1,18 @@
+fill(255, 0, 0);
+textSize(30);
+text("khan academy", 10, 30);
+textSize(10);
+text("helps you learn coding", 10, 87);
+textSize(50);
+text("FREE!!!!", 10, 200);
+fill(0, 85, 255);
+rect(250,20,900,50);
+textSize(20);
+fill(255, 234, 0);
+text("join now!!", 295, 57);
+ellipse(300,300,200,200);
+fill(18, 16, 16);
+ellipse(250,260,20,20);
+ellipse(350,260,20,20);
+fill(255, 0, 0);
+ellipse(297,280,50,20);
